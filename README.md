@@ -9,3 +9,6 @@
 
 
 4.The positive_samples.csv and negative_samples.csv files contain the positive and negative samples from our dataset, respectively.
+
+
+5.The Predicted_positive_sample.csv file contains the newly predicted protein samples that are potentially secreted into the Bronchoalveolar Lavage Fluid (BALF).
